@@ -28,43 +28,4 @@ Repeat steps 4-6 to continue playing or choose to quit the game.
 
 Sample Output:
 
-=====================================
-Welcome to snake, gun and Water Game
-=====================================
-Enter total number of this you want to play with computer
-4
------------------------------
-Game no.: 1
------------------------------
-Enter 's' for snake, 'w' for water and 'g' for gun
-s
-You win :)
-you choose : s
-computer choose : w
------------------------------
-Game no.: 2
------------------------------
-Enter 's' for snake, 'w' for water and 'g' for gun
-w
-You win :)
-you choose : w
-computer choose : g
------------------------------
-Game no.: 3
------------------------------
-Enter 's' for snake, 'w' for water and 'g' for gun
-g
-Game draw '-'
-you choose : g
-computer choose : g
------------------------------
-Game no.: 4
------------------------------
-Enter 's' for snake, 'w' for water and 'g' for gun
-s
-You win :)
-you choose : s
-computer choose : w
--------- Final Winner is : ------------
-You
 ![image](https://github.com/ankitrajlogin/snake-gun-water_game/assets/96335362/b7571844-ff0e-4de5-938a-bec569fd70de)
